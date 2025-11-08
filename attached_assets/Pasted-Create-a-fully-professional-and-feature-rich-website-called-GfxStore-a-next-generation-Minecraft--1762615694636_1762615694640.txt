@@ -1,0 +1,308 @@
+Create a fully professional and feature-rich website called GfxStore — a next-generation Minecraft + VPS Marketplace Platform with complete user and admin systems, built using Next.js + TailwindCSS + Framer Motion (or equivalent modern stack).
+
+
+---
+
+🌐 OVERVIEW
+
+GfxStore combines all Minecraft content (Plugins, Mods, Panels, Tools, Scripts) and VPS/Server plans in one place.
+The system must include:
+
+Full user system (login, profile, dashboard)
+
+Advanced admin control panel
+
+Built-in payment (bKash, Nagad)
+
+Auto translation
+
+Advanced search, analytics, and management system
+
+Modern, fast, and gaming-inspired UI similar to Modrinth + Nebula Panel + BuiltByBit
+
+
+
+---
+
+🧑‍💻 USER FEATURES (Dashboard + Account)
+
+User Dashboard Overview:
+
+Quick stats: Total downloads, purchases, uploaded items, messages.
+
+Recent activity log (orders, uploads, reviews).
+
+Customizable profile (avatar, bio, links).
+
+
+Orders Section:
+
+View and track VPS orders, plugin/mod purchases.
+
+Order status (Pending / Paid / Delivered).
+
+Download receipts and invoices.
+
+
+Uploads Section:
+
+Upload Plugins, Mods, Tools, Panels, or Scripts.
+
+Manage (edit/delete/update) own uploads.
+
+Check admin approval status.
+
+Analytics for own uploads (views, downloads, earnings).
+
+
+Earnings & Wallet System:
+
+Built-in user wallet to track earnings from paid content.
+
+Withdraw balance to bKash or Nagad (admin approval required).
+
+
+Notifications Center:
+
+Payment confirmations, new comments, update requests, etc.
+
+Real-time updates with WebSocket or Firebase.
+
+
+Support System:
+
+Built-in ticket system for support queries.
+
+Chat-style UI for communication with admins.
+
+
+Security Settings:
+
+2FA (Two-Factor Authentication).
+
+Login history and device tracking.
+
+
+Badges & Ranks:
+
+Automatic badges for verified developers, top sellers, contributors, etc.
+
+
+Subscription Option (Optional):
+
+Premium subscription to unlock faster downloads or special themes.
+
+
+
+
+---
+
+🧠 ADMIN PANEL (Advanced)
+
+Dashboard Overview:
+
+Graphs & analytics for:
+
+Total users, active users
+
+Sales statistics (daily/monthly)
+
+Top plugins/mods
+
+Most active developers
+
+
+Quick actions (approve, ban, edit, manage payments).
+
+
+User Management:
+
+View, edit, or suspend users.
+
+Assign roles (Admin / Moderator / Developer / Seller).
+
+View user earnings and activities.
+
+
+Content Management:
+
+Approve or reject uploads (Plugins / Mods / Tools / Panels / Scripts).
+
+Bulk edit or delete.
+
+Auto-versioning system for updates.
+
+Option to “Feature” specific plugins or mods on homepage.
+
+
+Payment Management:
+
+Integrated bKash & Nagad payment gateway.
+
+Manual payment verification panel.
+
+Refund system with reason logging.
+
+Earnings report export (CSV/PDF).
+
+
+VPS Plan Management:
+
+Create, edit, or remove server plans.
+
+Attach custom background images.
+
+Show special “Discount” or “Hot Deal” tags.
+
+
+Announcements & Blog System:
+
+Post news, patch notes, or updates directly from the admin panel.
+
+Markdown editor support.
+
+
+Auto Translation Panel:
+
+Edit and add translations manually.
+
+AI auto-translate integration (e.g., English ↔ Bangla).
+
+
+Advanced Analytics Page:
+
+Traffic source tracking
+
+Most searched keywords
+
+Conversion rate (views → purchase)
+
+Live visitor tracking
+
+
+AI Assistant (Optional):
+
+Built-in AI for suggesting prices, plugin tags, or moderation help.
+
+
+Security Tools:
+
+IP ban list, anti-fraud checks, file scan system for uploads.
+
+
+Email & Notification Manager:
+
+Send bulk notifications or announcements to users.
+
+Custom email templates for order confirmation, payment, etc.
+
+
+
+
+---
+
+🎮 MARKETPLACE FEATURES
+
+Categories: Plugins, Mods, Tools, Panels, Scripts, VPS Plans.
+
+Sub-categories: Java, Bedrock, Cross Edition.
+
+Sort and filter system: free, paid, most popular, newest, top-rated.
+
+Product detail page includes:
+
+Description, screenshots, changelog
+
+Rating & review system
+
+Version history
+
+Related products suggestions
+
+
+Free items instantly downloadable.
+
+Paid items unlock after successful payment.
+
+Review system (only verified buyers can review).
+
+Wishlist / Favorites system.
+
+
+
+---
+
+💳 PAYMENT SYSTEM
+
+In-built payment with bKash + Nagad integration.
+
+Wallet system for developers and buyers.
+
+Auto transaction update after payment.
+
+Admin can manually verify or refund payments.
+
+Secure checkout system with confirmation popup.
+
+Invoices & payment history stored for all transactions.
+
+
+
+---
+
+🌍 OTHER PROFESSIONAL FEATURES
+
+Multi-language system (Auto + Manual).
+
+Light / Dark / Gamer Mode themes.
+
+SEO-ready pages with meta tags per product.
+
+CDN + Lazy loading for performance.
+
+Download counter & traffic logs.
+
+Live chat or Discord integration.
+
+Email notifications for approvals & orders.
+
+Google Analytics integration.
+
+
+
+---
+
+⚙️ TECH STACK (SUGGESTED)
+
+Frontend: Next.js, TailwindCSS, Framer Motion
+
+Backend: Node.js (Express) or Nest.js
+
+Database: MongoDB or Firebase
+
+Auth: JWT / Firebase Auth
+
+Payments: bKash / Nagad API
+
+File Hosting: Cloudinary / Firebase Storage
+
+Deployment: Vercel / Render / Railway
+
+
+
+---
+
+🎯 GOAL
+
+Deliver a next-level, all-in-one Minecraft & VPS marketplace that combines:
+
+Modrinth’s simplicity
+
+BuiltByBit’s professional community
+
+Nebula Panel’s UI design
+
+and Bangladeshi payment support
+
+
+Final result must feel premium, futuristic, responsive, and production-ready, capable of scaling into a full gaming services ecosystem.
